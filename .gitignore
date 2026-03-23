@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+config.py
+di1.py
+main_history.py
+pyvenv.cfg
+tg_base_psiho.db
+.idea/
